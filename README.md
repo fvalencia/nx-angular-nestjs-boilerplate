@@ -1,6 +1,11 @@
 
 
-# PadawanJourney
+# NX Angular - NestJs Base Project
+
+Main Features
+
+- Already integrated with typeorm
+- Dotenvi ready to use for env variables
 
 This project was generated using [Nx](https://nx.dev).
 
